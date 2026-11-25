@@ -17,3 +17,5 @@ Use JDK 17 and Android SDK Platform 35 with Build Tools 35.0.0. Open the project
 ```
 
 The debug APK is written to `app/build/outputs/apk/debug/app-debug.apk`. The [Android APK workflow](https://github.com/jollyboy95/GWM-Custom/actions/workflows/android.yml) runs the same checks on pushes, pull requests and manual runs. Download the debug APK from a successful run’s **Artifacts** section.
+
+See the [project handover](HANDOVER.md) for the code map, verification status and how to resume work.
